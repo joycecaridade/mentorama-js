@@ -1,1 +1,1 @@
-# mentorama-js
+# Exercicios de JavaScript do curso da Mentorama
